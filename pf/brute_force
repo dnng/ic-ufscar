@@ -1,0 +1,99 @@
+plot [0:56][0:21] "~/testesrobo/pf/particle_it1.txt" with dots
+set term jpeg
+set output "teste_particle_it1.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it2.txt" with dots
+set term jpeg
+set output "teste_particle_it2.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it3.txt" with dots
+set term jpeg
+set output "teste_particle_it3.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it4.txt" with dots
+set term jpeg
+set output "teste_particle_it4.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it5.txt" with dots
+set term jpeg
+set output "teste_particle_it5.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it6.txt" with dots
+set term jpeg
+set output "teste_particle_it6.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it7.txt" with dots
+set term jpeg
+set output "teste_particle_it7.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it8.txt" with dots
+set term jpeg
+set output "teste_particle_it8.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it9.txt" with dots
+set term jpeg
+set output "teste_particle_it9.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it10.txt" with dots
+set term jpeg
+set output "teste_particle_it10.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it11.txt" with dots
+set term jpeg
+set output "teste_particle_it11.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it12.txt" with dots
+set term jpeg
+set output "teste_particle_it12.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it13.txt" with dots
+set term jpeg
+set output "teste_particle_it13.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it14.txt" with dots
+set term jpeg
+set output "teste_particle_it14.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it15.txt" with dots
+set term jpeg
+set output "teste_particle_it15.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it16.txt" with dots
+set term jpeg
+set output "teste_particle_it16.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it17.txt" with dots
+set term jpeg
+set output "teste_particle_it17.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it18.txt" with dots
+set term jpeg
+set output "teste_particle_it18.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it19.txt" with dots
+set term jpeg
+set output "teste_particle_it19.jpg"
+replot
+
+plot [0:56][0:21] "~/testesrobo/pf/particle_it20.txt" with dots
+set term jpeg
+set output "teste_particle_it20.jpg"
+replot

@@ -1,0 +1,29 @@
+plot [10:40][-10:25] "~/testesrobo/pf/particle_it1.txt" with dots
+set term jpeg
+set output "teste_particle_it1.jpg"
+replot
+save "teste_particle_it1.plt"
+
+plot [10:40][-10:25] "~/testesrobo/pf/particle_it5.txt" with dots
+set term jpeg
+set output "teste_particle_it5.jpg"
+replot
+save "teste_particle_it5.plt"
+
+plot [10:40][-10:25] "~/testesrobo/pf/particle_it10.txt" with dots
+set term jpeg
+set output "teste_particle_it10.jpg"
+replot
+save "teste_particle_it10.plt"
+
+plot [10:40][-10:25] "~/testesrobo/pf/particle_it15.txt" with dots
+set term jpeg
+set output "teste_particle_it15.jpg"
+replot
+save "teste_particle_it15.plt"
+
+plot [10:40][-10:25] "~/testesrobo/pf/particle_it20.txt" with dots
+set term jpeg
+set output "teste_particle_it20.jpg"
+replot
+save "teste_particle_it20.plt"

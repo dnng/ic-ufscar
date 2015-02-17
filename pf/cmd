@@ -1,0 +1,1 @@
+for i in particle*.txt; do ./plotpart.py $i rth.png ; done
