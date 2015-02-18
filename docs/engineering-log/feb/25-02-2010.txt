@@ -1,0 +1,38 @@
+- Estudo da documentação do player e do stage
+
+- A documentação do stage está atualizada e disponível online. A do player não.
+
+- Procurando no arquivo source do player encontramos uma pasta doc, e um arquivo
+  README informando como construir a documentação. O programa doxygen seria
+  necessário. Baixamos o doxygen e construimos a documentação.
+
+- O comando make doc-install estava desatualizado no README. Ao invés disso,
+  entramos no ~/pkgs/player-3.0.1/build e demos um ccmake .. , e lá habilitamos
+  a geração da documentação. A seguir, digitamos o comando make doc, e foi
+  criada uma pasta 'doc' dentro da pasta build. Acessamos a pasta e demos o
+  comando 'sudo make install' para gerar a documentação no
+  usr/local/share/doc/player-3.0.1
+
+- Documentação do player e stage disponíveis. Estudo em andamento.
+
+- Verificação do ambiente emualdo beagleboard/QEMU; O que é o busybox?;
+  Discussao da necessidade de portar o ubuntu para a beagleboard, se nao poderia
+  ser utilizada a propria distribuição busybox.
+
+- Pelos requisitos vimos que será necessário somente portar o player para a
+  beagleboard
+
+- Caminhos possiveis: Modificar a imagem, habilitar o nfs, 'simular' um hd e
+  montar o root file system em uma pasta no computador host (trabalhando assim
+  dentro desta pasta)
+
+- Abordagem do problema: 
+    + Decidir se usaremos o busybox ou nao
+    + Tentar subir o network file system
+    + Portar ferramentas necessárias para dentro do ambiente emulado (gcc,
+      pacotes e bibliotecas necessárias para execução do player)
+    + Fazer o player funcionar no ambiente emulado.
+    + Rodar no host o player como servidor.
+    + Rodar na placa um programa simples que somente extrai informações do
+      servidor (ja feito no host, executando o programa em outro shell).
+

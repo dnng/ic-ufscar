@@ -1,0 +1,30 @@
+1 - Adicionado mapa em "Copia de Simple" com sucesso.
+    Redimensionamento do mapa para [45.000 15.000 0.800]
+
+2 - Posicionamento do robô dentro do mapa com sucesso
+    Pose do robô setada para [-22 -5.5 0.45]
+
+3 - Teste de conexão com o player para os programas compilados
+    "laserobstacleavoid" (na pasta libplayerc++ examples, em /home/dnoguchi)
+    e "test" (na pasta /home/dnoguchi) efetuados com sucesso.
+
+4 - Possível implementação:
+    O programa laserobstacleavoid navega o robô com o sensor laser pelo mapa sem
+    problemas, nao fechando a conexão. O programa test navega o robô em circulos,
+    por um periodo definido de tempo, extraindo a posição x, y e o angulo, redire-
+    cionanado estas para a saida padrão.
+
+5 - Fazer um "merge" dos dois programas, fazendo com que a saída da pose do robô
+    seja direcionada para um arquivo, que posteriormente será utilizado pelo algoritmo
+    de filtro de partículas.
+
+6 - Fica faltando: 
+     - Como fazer a leitura dos dados do laser??? Os dados tem que ser lidos
+       a cada posição lida do robô!!! (ou seja, 180 leituras do laser para cada coordenada obtida)!
+     - Passar as leituras do laser para um arquivo.
+     - Modificar o algoritmo filtro de particulas para gerar arquivos com as particulas criadas
+       (definir intervalo de loop para quantos arquivos serao gerados, 10, 20, 30 arquivos?)
+
+7 - Plotar as coordenadas das particulas no mapa e criar uma imagem nova, para visualização das
+    particulas convergindo.
+

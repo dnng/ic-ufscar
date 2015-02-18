@@ -1,0 +1,23 @@
+Arm. British Technology Company [Online] [Visitado em: Outubro de 2009] www.arm.com .
+
+Beagleboard. A low cost, fan-less single-board computer [Online] [Visitado em: Julho de 2010] http://beagleboard.org .
+
+Bellard, Fabrice. Qemu. An Open Source Machine Emulator and Virtualizer [Online] [Visitado em: Julho de 200.] http://wiki.qemu.org/Main_Page.
+
+CodeSourcery. Software consulting group specializing in development tools, C++ compilers, and GCC/GNU toolchain support and extension. [Online][Visitado em: Outubro de 2009]  www.codesourcery.com/sgpp/lite/arm .
+
+Gerkey, B. P., Vaughan, R. T. e Howard, A. 2003. The Player/Stage Project: Tools for Multi-Robot and Distributed Sensor Systems. IEEE International Conference on Advanced Robotics - ICAR. July, 2003.
+
+Grawert, Oliver. Rootstock.  Tool to build an Ubuntu root filesystem for a target device from scratch [Online] [Visitado em: Julho de 2010] https://wiki.ubuntu.com/ARM/RootfsFromScratch .
+
+LCR. SSC 711 – Co-Projeto de Hardware/Software para Sistemas Embarcados [Online] [Visitado em: Fevereiro de 2010]  http://www.icmc.usp.br/~lcr/en/courses/hwswcodesign/ .
+
+Rekleitis, I. 2004. “A Particle Filter Tutorial for Mobile Robot Localization”. Centre for Intelligent Machines, McGill University, Montreal, Québec.
+
+Santos, Francisco C. A. 2009. Introdução ao Filtro de Partículas [Online] [Visitado em: Julho de 2010] http://www.lti.pcs.usp.br/pcs5019/TermPapers/PCS5019_TermPaper_FranciscoSantos.pdf .
+
+Somby, Michael. Linux for Devices. Updated Review of Robotics Software Platforms [Online] [Visitado em: Julho de 2010] http://www.linuxfordevices.com/c/a/Linux-For-Devices-Articles/Updated-review-of-robotics-software-platforms/ .
+
+Texas Instruments. Fabricante de tecnologias analógicas, semicondutores de processamento digital de sinal (DSP) e microcontroladores (MCU) [Online] [Visitado em: Outubro de 2009] www.ti.com .
+
+Thrun, Sebastian; Burgard, Wolfram; Fox, Dieter. Probabilistic robotics. Cambridge, Mass. : MIT Press, c2006.

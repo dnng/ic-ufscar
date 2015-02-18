@@ -1,0 +1,19 @@
+- Confirmação da instalação do player - stage; Execução dos exemplos que vem com
+  a instalação junto com o PlayerViewer. Aperentemente esta tudo ok.
+
+- Compilação dos exemplos vindos com o player (libplayerc++_example); Arquivos
+  compilados com o cmake e make; Ao tentar rodar o arquivo binario
+  laserobstacleavoid, ocorreu a mesma falha de conexão que houve ao rodar o
+  arquivo test que foi compilado; Creio que seja porque o servidor deva estar
+  rodando para um cliente poder retirar informações dele. Rodamos o arquivo
+  simple.cfg com o player e o executamos o binario em outro shell, aparentemente
+  funcionou. Duvida se esta é a utilização correta destes programas compilados
+  (e.g test e laserobstacleavoid; houve mudança no comportamento do robô?)
+
+- Postagem de mensagem sobre emulação do hardware da beagleboard no qemu.
+  Pesquisa sobre o tema na web retornou resultados muito incompletos (A demora
+  para postagem deu - se devido a pesquisa para ver como interagir com esses
+  grupos open source, tendo a cautela para nao ser desrespeitoso; cogitei enviar
+  email para o participante do grupo que comentou sobre o ambiente emulado,
+  porém a postagem no grupo mostrou - se mais frutifera no final).
+

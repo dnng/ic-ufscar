@@ -1,0 +1,49 @@
+- Capa do Relatório: Espalhar  melhor as linhas ao longo da capa, aumentar o
+  tamanho das letras, mencionar o nome INCT-SEC.
+
+Referências
+-----------
+
+- Ficar próximo das normas ABNT. A principal mudanças é o sobrenome dos
+  autores,que deve ser todo em maiúsculas.  Ver exemplos em:
+    + http://www.cdcc.usp.br/cda/sessao-astronomia/sessao-astronomia-padrao/referencia-bibliografica-ufrgs.htm
+
+- Deixar tudo em ordem alfabética de acordo c/ o sobrenome do primeiro autor (ou
+  nome do site).
+
+- Ref Rekleitis: incluir o número do relatório técnico:
+    + Ioannis Rekleitis. A Particle Filter Tutorial for Mobile Robot
+    Localization.  Technical Report TR-CIM-04-02, Centre for Intelligent
+    Machines, McGill University, Montreal, Quebec, Canada, 2004
+
+- Ref ARM: 
+    + Nome da Empresa: ARM Holdings
+    + Título da página: Processors
+    + Endereço:http://www.arm.com/products/processors/index.php
+
+- Ref Texas:
+    + Nome da Empresa: Texas Instruments Incorporated
+    + Título da página: Embedded Processors
+    + http://www.ti.com/home_p_processors
+
+- Ref code sourcery:
+    + Titulo da página: GNU Toolchain for ARM Processors
+
+- Na seção de dificuldades encontradas, mencionar que não se trabalhou com o
+  algoritmo de campos potenciais devido à falta da placa. Portar o algoritmo
+  apenas para o ambiente emulado não acrescentaria muito em termos do que já
+  estava sendo feito para o algoritmo de filtro de particulas.
+
+- Parecer do Orientador:
+
+"De maneira geral, o trabalho foi bem conduzido, atingindo a maior parte dos
+objetivos previstos. O aluno demonstrou bastante interesse e dedicação ao longo
+do projeto, que envolveu a assimilação de novos conceitos e habilidades
+práticas. Conforme já mencionado neste relatório, as principais dificuldades
+encontradas tem como causa o atraso na importação da placa Beagle Board. Apesar
+de não inviabilizar o projeto, isso exigiu alguns ajustes no cronograma e
+metodologia inicialmente planejada. Mesmo assim, considero que o projeto tenha
+sido bastante proveitoso para a formação do aluno, tanto pela oportunidade de
+conduzir um projeto científico, como pelos conhecimentos adquiridos em uma área
+atual e relevante para a área de computação."
+

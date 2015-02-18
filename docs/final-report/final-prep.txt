@@ -1,0 +1,53 @@
+Fazer 1-5 nas próximas 2 semanas:
+
+- Testes c/ player/stage no Ubuntu - terminar
+- Subir Ubuntu/Player/Stage no QEMU
+- Repetir testes no QEMU (análise funcional)
+- Teste c/ placa: cancelados até segunda ordem
+- Escrita do relatório:
+- básico sobre filtro de particulas
+
+- Especificar 2 frameworks de HW/SW
+    + testes de desenvolvimento (o que você fez até aqui)
+    + testes de campo e execução (integração beagle board c/ robô, pc100,
+      sensores, etc)
+
+Fazer 6 mais tarde:        
+
+6) Verificar possibilidade de testar campos potenciais
+
+Avaliação do aluno:
+-------------------
+
+Tendo em vista que o desenvolvimento deste projeto requeriu amplos conhecimentos
+em desenvolvimento em ambiente linux, não sendo somente o desenvolvimento de
+programas, mas o uso do sistema como um todo, envolvendo a manipulação de
+scripts, conhecimentos em cross-compiling e toochains, modificação de
+características específicas de arquivos de configuração do unix (library paths,
+program paths, edição de arquivos de configuração de rede, etc) para o
+funcionamento correto das ferramentas, ambientes virtuais, entre outros e
+levando em conta que meu conhecimento prévio de trabalho em ambiente unix não
+passava de 6 meses de familiarização básica com este tipo de SO, creio que
+alcancei os objetivos esperados satisfatóriamente, tendo executado com sucesso
+as atividades que envolviam os tópicos descritos acima.
+
+Um benefício direto foi a maturação nos conhecimentos da linguagem de
+programação C, bem como o aprendizado e utilização da linguagem python.
+
+Como ressalva, tive certas dificuldades com a manipulação de imagens que foi
+necessária em uma etapa do projeto, pois algumas características intrínsicas do
+trabalho com imagens, como field of view, coordenadas cartesianas de uma imagem,
+razão pixel por metro, etc acabaram sendo difíceis de lidar. Contudo, creio ter
+conseguido integrar esta parte com o resto do projeto de forma satisfatória.
+
+- Introducao
+- Objetivos
+- Ferramentas Utilizadas
+- Atividades
+    + Cronograma de Atividades
+    + Trabalhos Desenvolvidos
+- Resultados
+- Conclusao
+- Agradecimentos
+- Anexos
+

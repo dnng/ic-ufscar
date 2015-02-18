@@ -1,0 +1,44 @@
+
+Livro:
+Arnold Berger. Embedded Systems Design: An Introduction to Process, Tools, and
+  Techniques. CPM Books, USA, 2002.
+
+Artigo revista:
+Shekhar Borkar. Designing reliable systems from unreliable components: The chal-
+  lenges of transistor variability and degradation. IEEE Micro, 25(6):10–16, 2005.
+
+Artigo Congresso:
+Joseph Fisher. Very long instruction word architectures and the ELI-512. In Pro-
+  ceedings of the 10th Annual International Symposium on Computer Architecture,
+  1983.
+
+Tese:
+Steven J. Deitz. High-level programming language abstractions for advanced and
+  dynamic parallel computations. PhD thesis, College of Engineering, University of
+  Washington, Seattle, WA, USA, 2005.
+  
+Relatorio Tecnico:
+  Krste Asanovic, Ras Bodik, Bryan Christopher Catanzaro, Joseph James Gebis,
+  Parry Husbands, Kurt Keutzer, David A. Patterson, William Lester Plishker,
+  John Shalf, Samuel Webb Williams, and Katherine A. Yelick. The landscape of pa-
+  rallel computing research: A view from Berkeley. Technical Report UCB/EECS-
+  2006-183, EECS Department, University of California, Berkeley, Dec 2006.
+
+Documentação no site da empresa:
+Intel. Intel Core Processor Fami1y. http://www.intel.com, Mar 2008.
+  
+Software ou documentação em site de universidade:
+SUIF. The SUIF 2 Compiler System. http://suif.stanford.edu/suif/suif2/, Mar
+  2008.
+
+
+
+Como citar no texto - exemplo:
+Ja ILP centrado em software pode ser caracterizado pelas arquiteturas VLIW [Fisher, 1983].
+
+
+Exemplo p/ artigo c/ mais de uma autor:
+Duas classes principais de arquiteturas para a
+exploracao de ILP podem ser identificadas [Hennessy and Patterson, 2007].
+
+  

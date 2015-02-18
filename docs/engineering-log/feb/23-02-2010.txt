@@ -1,0 +1,43 @@
+- Tentativa de Instalação do Player-Stage pelos pacotes DEB: Falhou
+- Desinstalação dos pacotes
+
+- Download dos códigos fonte do player e stage; Download dos pacotes necessários
+  para instalação do player e do stage (Verificação manual dos pacotes e
+  dependencias necessárias; este passo toma muito tempo): OK
+
+- Compilação usando cmake e make: OK
+
+- Inclusão do caminho necessario da LD_LIBRARY_PATH no .bashrc: OK
+
+- Ao executar o player, obtemos uma mensagem de erro informando que a biblioteca
+  libltdl não estava instalada;
+
+- Verificou - se a instalação da bilbioteca;
+- Recompilamos o player, prestando atenção às saídas que informavam quais
+  pacotes nao foram encontrados
+- Verificamos que dois pacotes permaneceram instalados pelo repositório,
+  referentes ao plugin do stage: Os pacotes foram removidos: OK
+- Instalamos mais pacotes que outrora não foram encontrados pelo player
+  (avaliando a saida do cmake e make e vendo quais pacotes ele nao encontrava;
+  novamente esta etapa tomou um bom tempo )
+- Player funcional
+- Stage funcional
+
+- Compilação do código de exemplo do arquivo .pdf obtido da USP: Realizado,
+  porém algumas bibliotecas nao foram encontradas (no caso lplayerxdr
+  -lplayererror)
+- Execução do arquivo de configuracao simple.cfg atraves do player: OK
+- Em um outro bash executamos o arquivo test.c compilado: OK
+- Recebimento dos dados do robô: OK
+- Ao terminar o loop, o cliente é desconectado; neste momento, o player da um
+  erro descrito no arquivo "saida bash.txt"; erro de código do player, que dá um
+  free() em uma área de memoria nao alocada;
+
+
+ponto de parada
+---------------
+
+- ler arquivo pdf de utilização basica do player / stage
+- ler manual do stage (foi atualizado para a versao mais recente no site)
+- pedir no grupo beagleboard brasil os passos para emular a placa no qemu
+
