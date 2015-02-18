@@ -236,7 +236,7 @@ void calc_mean() {
 
 /* load map from file
  */
-void load_map(char *file_name)
+void load_map(const char *file_name)
 {
     int i, j, aux;
     FILE * file;
@@ -653,7 +653,8 @@ void filter_loop(void)
 
 int main(void)
 {
-    load_map("rth.map");
+    const char * map_file = "rth.map";
+    load_map(map_file);
     map.scale = 10;
     calc_lh_map();
     init_particles2(25.30, 3.10, 0);
